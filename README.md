@@ -4,3 +4,7 @@ A Simple Example of how Redux works. It's a project for Devs to see the workflow
 just for myself to come back and have a working example of Redux.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Live Demo
+
+https://ederlmarkus.github.io/JS_REACT_ReduxExample01/index.html?123
